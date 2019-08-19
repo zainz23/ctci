@@ -1,6 +1,7 @@
 # Cracking the Coding Interview Solutions
 Repository of code that keeps track of my own solutions to Gayle Mcdowell Cracking the Coding Interview (6th Ed.)
-Table of Contents
+
+## Table of Contents
 1. Arrays and Strings
 2. Linked Lists
 3. Stacks & Queues
